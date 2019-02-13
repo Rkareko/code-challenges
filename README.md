@@ -1,2 +1,2 @@
 # code-challenges
-Sample code challenge solutions
+Sample code challenge solutions implemented in java.
