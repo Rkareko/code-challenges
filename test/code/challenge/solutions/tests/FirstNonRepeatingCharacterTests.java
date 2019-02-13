@@ -8,7 +8,7 @@ import code.challenge.solutions.FirstNonRepeatingCharacter;
 public class FirstNonRepeatingCharacterTests {
 
 	@Test
-	public void testFirstNonReapingCharacterWithValidInput() {
+	public void testFirstNonRepeatingCharacterWithValidInput() {
 		assertEquals('s', FirstNonRepeatingCharacter.findFirstNonRepeatingChar("basketball")); 
 		assertEquals('t', FirstNonRepeatingCharacter.findFirstNonRepeatingChar("training")); 
 		assertEquals('r', FirstNonRepeatingCharacter.findFirstNonRepeatingChar("immersive")); 
@@ -16,7 +16,7 @@ public class FirstNonRepeatingCharacterTests {
 	}
 	
 	@Test
-	public void testFirstNonReapingCharacterWithInValidInput() {
+	public void testFirstNonRepeatingCharacterWithInValidInput() {
 		assertEquals(' ', FirstNonRepeatingCharacter.findFirstNonRepeatingChar(" ")); 	
 	}
 }

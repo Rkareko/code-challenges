@@ -27,7 +27,7 @@ public class FirstNonRepeatingCharacter {
 	}
 	
 	/**
-	 * This method populates a HasMap with the count for each character 
+	 * This method populates a HashMap with the count for each character 
 	 * in the input string.
 	 *
 	 * @param inputString The string from which the character count map is build.
